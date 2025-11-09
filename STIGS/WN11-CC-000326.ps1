@@ -25,7 +25,7 @@
     Example syntax:
     PS C:\> .\Remediate_STIG_WN11-CC-000326.ps1
 
-SCRIPT
+#SCRIPT
 #>
 
 # WN11-CC-000326 - Enable PowerShell Script Block Logging
