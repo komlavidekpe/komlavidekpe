@@ -26,7 +26,7 @@
     PS C:\> .\Remediate_STIG_WN11-CC-000315.ps1
 #>
 
-SCRIPT
+#SCRIPT
 
 # Local machine hive
 $lmKey = 'HKLM:\SOFTWARE\Policies\Microsoft\Windows\Installer'
