@@ -26,7 +26,7 @@
     PS C:\> .\Remediate_STIG_WN11-00-000032.ps1
 #>
 
-SCRIPT
+#SCRIPT
 
 # WN11-00-000032 - Enforce BitLocker pre-boot PIN minimum length of six digits
 # This setting is stored in Group Policy under the BitLocker Drive Encryption TPM configuration.
