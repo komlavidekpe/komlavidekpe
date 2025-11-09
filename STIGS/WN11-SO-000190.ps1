@@ -26,7 +26,7 @@
     PS C:\> .\Remediate_STIG_WN11-SO-000190.ps1
 #>
 
-SCRIPT
+#SCRIPT
 
 # WN11-SO-000190 - Configure Kerberos encryption types to prevent the use of DES and RC4
 
