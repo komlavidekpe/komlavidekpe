@@ -26,7 +26,7 @@
     PS C:\> .\Remediate_STIG_WN11-UR-000070.ps1
 #>
 
-SCRIPT
+#SCRIPT
 
 # WN11-UR-000070 - Configure 'Deny access to this computer from the network'
 # STIG requires denying network logon to:
