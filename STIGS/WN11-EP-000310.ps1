@@ -26,7 +26,7 @@
     PS C:\> .\Remediate_STIG_WN11-EP-000310.ps1
 #>
 
-SCRIPT
+#SCRIPT
 
 # WN11-EP-000310 - Enable Kernel DMA Protection enumeration policy (Block All)
 # STIG requires:
