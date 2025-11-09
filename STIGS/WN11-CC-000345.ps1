@@ -26,7 +26,7 @@
     PS C:\> .\Remediate_STIG_WN11-CC-000345.ps1
 #>
 
-SCRIPT
+#SCRIPT
 
 SCRIPT
 
