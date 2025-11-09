@@ -26,7 +26,7 @@
     PS C:\> .\Remediate_STIG_WN11-AC-000010.ps1
 #>
 
-SCRIPT
+#SCRIPT
 
 # WN11-AC-000010 - Configure account lockout threshold to three invalid logon attempts or less
 
