@@ -26,7 +26,7 @@
     PS C:\> .\Remediate_STIG_WN11-AU-000560.ps1
 #>
 
-SCRIPT
+#SCRIPT
 
 # WN11-AU-000560 - Enable success auditing for "Other Logon/Logoff Events"
 
