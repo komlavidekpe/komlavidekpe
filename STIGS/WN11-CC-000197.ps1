@@ -26,7 +26,7 @@
     PS C:\> .\Remediate_STIG_WN11-CC-000197.ps1
 #>
 
-SCRIPT
+#SCRIPT
 
 # WN11-CC-000197 - Disable Microsoft Consumer Experiences
 $path = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\CloudContent"
